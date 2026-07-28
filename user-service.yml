@@ -3,3 +3,6 @@
 message:
   greeting: Hello Spring Cloud Bus (재수정)
 
+company:
+  name: NJONE Company
+  ceo: Hong Gil Dong
